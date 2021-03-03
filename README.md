@@ -3,7 +3,7 @@ In this repository, I share a few projects focused on Exploratory Data Analysis.
 
 ## Projects
 
-### [Kaggle EDA Challenge 2020](https://github.com/negrinij/EDA/blob/main/Kaggle%20EDA/2020-kaggle-eda-competition.ipynb)
+### [Kaggle EDA Challenge 2020](https://github.com/negrinij/EDA/blob/main/KaggleEDA/2020-kaggle-eda-competition.ipynb)
 
 - This notebook is a exploratory data analysis (EDA) of the most comprehensive dataset available on the state of machine learning and data science today
 - The survey answers covered demographic, education, employment, and technology usage to learn more about data science practitioners in 2020.
@@ -14,4 +14,4 @@ In this repository, I share a few projects focused on Exploratory Data Analysis.
 - 39% of participants hold a Masters and 34% Bachelors degrees, demonstrating the importance of Formal Education
 - Almost 60% of doctorates are working as Research Scientists. Also, PhD holders account for only 7% of currently unemployed. Unfortunately, 42% of currently unemployed hold a Bachelor degree
 
-![](EDA/Kaggle EDA/KaggleHeatmap.png)
+![](EDA/KaggleEDA/KaggleHeatmap.png)
