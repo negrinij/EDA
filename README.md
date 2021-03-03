@@ -14,4 +14,4 @@ In this repository, I share a few projects focused on Exploratory Data Analysis.
   - 39% of participants hold a Masters and 34% Bachelors degrees, demonstrating the importance of Formal Education
   - Almost 60% of doctorates are working as Research Scientists. Also, PhD holders account for only 7% of currently unemployed. Unfortunately, 42% of currently unemployed hold a Bachelor degree
 
-![](EDA/KaggleEDA/KaggleHeatmap.png)
+![](/KaggleEDA/KaggleHeatmap.png)
