@@ -5,7 +5,7 @@ In this repository, I share a few projects focused on Exploratory Data Analysis.
 
 ### [Kaggle EDA Challenge 2020](https://github.com/negrinij/EDA/blob/main/KaggleEDA/2020-kaggle-eda-competition.ipynb)
 
-- This notebook is a exploratory data analysis (EDA) of the most comprehensive dataset available on the state of machine learning and data science today
+- Exploratory data analysis (EDA) of the most comprehensive dataset available on the state of machine learning and data science today according to the Kaggle Community
 - The survey answers covered demographic, education, employment, and technology usage to learn more about data science practitioners in 2020.
 - Key Insights include:
   - India, the USA and Brazil are the countries with the most survey participants
