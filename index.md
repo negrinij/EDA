@@ -3,7 +3,7 @@ In this repository, I share a few projects focused on Exploratory Data Analysis.
 
 ## Projects
 
-### [Kaggle EDA Challenge 2020](https://github.com/negrinij/EDA/blob/main/KaggleEDA/2020-kaggle-eda-competition.ipynb)
+### [Kaggle EDA Challenge 2020](https://nbviewer.jupyter.org/github/negrinij/EDA/blob/main/KaggleEDA/2020-kaggle-eda-competition.ipynb)
 
 - Exploratory data analysis (EDA) of the most comprehensive dataset available on the state of machine learning and data science today according to the Kaggle Community
 - The survey answers covered demographic, education, employment, and technology usage to learn more about data science practitioners in 2020.
@@ -17,7 +17,7 @@ In this repository, I share a few projects focused on Exploratory Data Analysis.
 ![](/KaggleEDA/KaggleHeatmap.png)
 
 
-### [Natural Disasters 1900-2021: An EDA](https://github.com/negrinij/EDA/blob/main/EM-DAT/eda-natural-disasters.ipynb)
+### [Natural Disasters 1900-2021: An EDA](https://nbviewer.jupyter.org/github/negrinij/EDA/blob/main/EM-DAT/eda-natural-disasters.ipynb)
 
 - This notebook explores EM-DAT data extracted from www.emdat.be. The data being analysed takes into account all continents, and presents details regarding natural disasters from 1900 to currrent date
 - The database is compiled from various sources, including UN agencies, non-governmental organisations, insurance companies, research institutes and press agencies
