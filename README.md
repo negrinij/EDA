@@ -17,7 +17,7 @@ In this repository, I share a few projects focused on Exploratory Data Analysis.
 ![](/KaggleEDA/KaggleHeatmap.png)
 
 
-### [Natural Disasters 1900-2021: An EDA](https://github.com/negrinij/EDA/blob/main/KaggleEDA/2020-kaggle-eda-competition.ipynb)
+### [Natural Disasters 1900-2021: An EDA](https://github.com/negrinij/EDA/blob/main/EM-DAT/eda-natural-disasters.ipynb)
 
 - This notebook explores EM-DAT data extracted from www.emdat.be. The data being analysed takes into account all continents, and presents details regarding natural disasters from 1900 to currrent date
 - The database is compiled from various sources, including UN agencies, non-governmental organisations, insurance companies, research institutes and press agencies
