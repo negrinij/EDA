@@ -1,6 +1,8 @@
 # EDA's
 In this repository, I share a few projects focused on Exploratory Data Analysis. The goal is to extract information on different Datasets, exercising Data Analysis and Visualisation skills.
 
+If you are interested in Machine Learning, have a look at my projects [here](https://negrinij.github.io/Portfolio).
+
 ## Projects
 
 ### [Kaggle EDA Challenge 2020](https://nbviewer.jupyter.org/github/negrinij/EDA/blob/main/KaggleEDA/2020-kaggle-eda-competition.ipynb)
