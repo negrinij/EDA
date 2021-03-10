@@ -30,4 +30,3 @@ In this repository, I share a few projects focused on Exploratory Data Analysis.
   - Floods (Hydro), Storms (Meteo) and Earthquakes (Geo) are the Disasters Subtypes that occurred the most since 1900. In total, 5.400 Floods, 4.400 Storms and 1.500 have been recorded since then.
 
 ![](/EM-DAT/CumSum_EMDAT.png)
-categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
