@@ -32,3 +32,14 @@ If you are interested in Machine Learning, have a look at my projects [here](htt
   - Floods (Hydro), Storms (Meteo) and Earthquakes (Geo) are the Disasters Subtypes that occurred the most since 1900. In total, 5.400 Floods, 4.400 Storms and 1.500 have been recorded since then.
 
 ![](/EM-DAT/CumSum_EMDAT.png)
+
+### [Iowa House Market](https://nbviewer.jupyter.org/github/negrinij/EDA/blob/main/HouseMarketIOWA/iowa-house-market-data-analysis.ipynb)
+
+- The dataset contains 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa
+- In here an initial data analysis is performed to guide the next steps. The most relevant points learned from this data analysis are:
+  - A strategy to handle the null values must be trialled. KNN, mean values replacement and MICE strategies need to be tested
+  - There are features that are highly correlated. They could be removed or combined to simplify the dataset
+  - Skewed variables are present. Feature transformation can be used to improve model performance, mainly if ANN or SVM are used
+  - From the feature analysis, it was possible to obtain ideas for new features that could improve model performance.
+
+![](/HouseMarketIOWA/corrMatrix.png)
