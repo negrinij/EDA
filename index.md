@@ -31,7 +31,7 @@ If you are interested in Machine Learning, have a look at my projects [here](htt
   - Hydrological events are the ones who affect most people
   - Floods (Hydro), Storms (Meteo) and Earthquakes (Geo) are the Disasters Subtypes that occurred the most since 1900. In total, 5.400 Floods, 4.400 Storms and 1.500 have been recorded since then.
 
-![](/EM-DAT/CumSum_EMDAT.png)
+![](/main/EM-DAT/DeathCountries.png)
 
 ### [Iowa House Market](https://nbviewer.jupyter.org/github/negrinij/EDA/blob/main/HouseMarketIOWA/iowa-house-market-data-analysis.ipynb)
 
