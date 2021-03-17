@@ -16,7 +16,7 @@ If you are interested in Machine Learning, have a look at my projects [here](htt
   - 39% of participants hold a Masters and 34% Bachelors degrees, demonstrating the importance of Formal Education
   - Almost 60% of doctorates are working as Research Scientists. Also, PhD holders account for only 7% of currently unemployed. Unfortunately, 42% of currently unemployed hold a Bachelor degree
 
-![](/KaggleEDA/KaggleHeatmap.png)
+![](../main/KaggleEDA/KaggleHeatmap.png)
 
 
 ### [Natural Disasters 1900-2021: An EDA](https://nbviewer.jupyter.org/github/negrinij/EDA/blob/main/EM-DAT/eda-natural-disasters.ipynb)
@@ -42,4 +42,4 @@ If you are interested in Machine Learning, have a look at my projects [here](htt
   - Skewed variables are present. Feature transformation can be used to improve model performance, mainly if ANN or SVM are used
   - From the feature analysis, it was possible to obtain ideas for new features that could improve model performance.
 
-![](/HouseMarketIOWA/corrMatrix.png)
+![](../main/HouseMarketIOWA/corrMatrix.png)
